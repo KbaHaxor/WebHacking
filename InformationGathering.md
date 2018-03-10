@@ -43,4 +43,4 @@ Scan for configurations ...
 nikto -h <domain> -C all
 ```
 
-![Recon](https://github.com/Zawadidone/Hacking/blob/master/images/Recon.jpg?raw=true)
+![Recon](https://github.com/Zawadidone/WebHacking/blob/master/images/Recon.jpg?raw=true)
