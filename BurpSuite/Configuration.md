@@ -22,7 +22,6 @@ nurl:go, inurl:return, inurl:returnTo
 2. ActiveScan++ 
 3. Additional Scanner Checks -This extension provides some additional passive Scanner checks.
 4. Attack Selector - This extension lets you configure multiple scan profiles, such as "XSS only" or "Quick scan". When sending items to be scanned, you can select which profile to use from the context menu.
-5. BurpSmartBuster - This extension discovers content with a smart touch. A bit like "DirBuster" and "Burp Discover Content", but smarter.
 6. CMS Scanner - An active scan extension for Burp that provides supplemental coverage when testing popular content management systems.
 7. This extension is designed to passively scan for CSP headers that contain known bypasses as well as other potential weaknesses.
 8. CSRF Scanner - This extension can be used to passively scan for CSRF (cross-site request forgery) vulnerabilities.
@@ -31,10 +30,7 @@ nurl:go, inurl:return, inurl:returnTo
 11. J2EEScan - The goal of this extension is to improve the test coverage during web application penetration tests on J2EE applications. It adds some new test cases and new strategies to discover different kind of J2EE vulnerabilities.
 12. JSON Beautifier - This extension adds a new tab to Burp's HTTP message viewer to beautify JSON content.
 13. JSON Decoder - This extension adds a new tab to Burp's HTTP message editor, and displays JSON messages in decoded form.
-14. Meth0DmAN - This extension helps with testing HTTP methods. It generates custom Burp Intruder payloads based on the site map, allowing quick identification of several HTTP method issues.
-15. Reflcted File Download Checker - This extension checks for reflected file downloads.
 16. Reflected Parameters - This extension monitors traffic and looks for request parameter values (longer than 3 characters) that are reflected in the response.
 17. Retire.js - This extension integrates Burp with the Retire.js repository to find vulnerable JavaScript libraries.
 18. Software Vulnerability Scanner - This extension scans for vulnerabilities in detected software versions using the Vulners.com API
 19. XSS Validator - This extension sends responses to a locally-running XSS-Detector server, powered by either Phantom.js and/or Slimer.js  
-20. WAFDetect - This extension passively detects the presence of a web application firewall (WAF) from HTTP responses.
