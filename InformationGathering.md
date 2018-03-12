@@ -20,9 +20,8 @@ cd Striker && python striker.py
 
 ###### 3\. Shodan - The search engine for Internet of Shit
 Search for ip addresses associate with the company
-```
+
 Go to [Shodan](https://www.shodan.io/) -> Insert company name or domain -> Search -> Results :)
-```
 
 
 ##### Others
