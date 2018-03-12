@@ -1,1 +1,2 @@
 handling of input
+#SQLmap protip: add --suffix=“-- “ to the CLI parameters, and it will find and exploit SQLi like never before (MySQL in this case). I probably should create a new payload though, but this was a dirty fix
