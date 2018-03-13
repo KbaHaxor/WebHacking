@@ -6,7 +6,7 @@
 
 ###### 1\. Add target to scope
 ```
-Target -> Scope -> Add -> Paste Url
+Target -> Scope -> Paste Url
 ```
 
 
