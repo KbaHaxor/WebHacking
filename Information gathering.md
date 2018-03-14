@@ -1,5 +1,7 @@
 # Information Gathering
-
+- [ ] Manual application discovery
+- [ ] Automated discovery
+- [ ] Harvesting public information
 
 ### Subdomain Discovery for choosing a target
 
