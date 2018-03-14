@@ -3,7 +3,7 @@
 This a collection of my portfolio tools and helfup tips. Before you begin drink thee and relax your mindsuite.
 
 ## Help
-[Adding tools to the PTF](https://github.com/Zawadidone/WebHacking/blob/master/AddPTF.md)
+[Adding tools to the PTF](https://github.com/Zawadidone/WebHacking/blob/master/Assesment/Add%20tools.md)
 
 ## The Web Application Hacker's Handbook
 Web Application Hacker's Handbook Task checklist as a Github-Flavored Markdown file
@@ -11,13 +11,13 @@ Web Application Hacker's Handbook Task checklist as a Github-Flavored Markdown f
 
 ### Task Checklist
 
-#### [Recon and analysis](https://github.com/Zawadidone/WebHacking/blob/master/Information%20gathering.md)
+#### [Recon and analysis](https://github.com/Zawadidone/WebHacking/blob/master/Assesment/Recon%20and%20analysis.md)
 
 - [ ] Manual application discovery
 - [ ] Automated discovery
 - [ ] Harvesting public information
 
-####  [Session management](https://github.com/Zawadidone/WebHacking/blob/master/Test%20handling%20of%20access.md)
+####  [Session management](https://github.com/Zawadidone/WebHacking/blob/master/Assesment/Session%20management.md)
 - [] Session fixation
 - [] Weak session token quality
 - [] Weak session token management
@@ -28,7 +28,7 @@ Web Application Hacker's Handbook Task checklist as a Github-Flavored Markdown f
 - [] No session timeout
 - [] Session encryption (SSL/TLS)
 
-##### [Authentication](https://github.com/Zawadidone/WebHacking/blob/master/Test%20handling%20of%20input.md)
+##### [Authentication](https://github.com/Zawadidone/WebHacking/blob/master/Assesment/Authentication.md)
 
 - [ ] Password strength enforcement
 - [ ] Authentication bypass
@@ -36,44 +36,41 @@ Web Application Hacker's Handbook Task checklist as a Github-Flavored Markdown f
 - [ ] Password brute force
 - [ ] Default account(admin)
 
-#### [Authorization]()
+#### [Authorization](https://github.com/Zawadidone/WebHacking/blob/master/Assesment/Authorization.md)
 
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-- [ ]
+- [ ] Insecure authorization design
+- [ ] Only client side authorization
+- [ ] Variable manipulation
+- [ ] Direct access to resources
+- [ ] IDOR
 
-#### Assess application hosting
+#### [Client side attacks](https://github.com/Zawadidone/WebHacking/blob/master/Assesment/Client%20side%20attacks.md)
 
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-- [ ]
+- [ ] Reflected XSS
+- [ ] Stored XSS
+- [ ] DOM based XSS
+- [ ] Wrong content-type
+- [ ] HTTP header injection
+- [ ] Malicious URL redirect
+- [ ] Clickjacking
 
-#### Miscellaneous tests
+#### [Miscellaneous tests](https://github.com/Zawadidone/WebHacking/blob/master/Assesment/Miscellaneous%20tests.md)
 
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-- [ ]
+- [ ] LFI
+- [ ] RFI
+- [ ] XML external entity injection
+- [ ] OS command injection
+- [ ] SQL injection
+- [ ] Malicious file upload
+
+
+#### [Information disclosure](https://github.com/Zawadidone/WebHacking/blob/master/Assesment/Information%20disclosure.md)
+
+- [ ] Backup files
+- [ ] Leaking stackt-traces
+- [ ] Comments
+- [ ] Path disclosure
+- [ ] Directory listing
 
 ### References
 *  http://mdsec.net/wahh/tasks.html
