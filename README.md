@@ -1,7 +1,9 @@
 # WebHacking
 
-This a collection of my portfolio tools and helfup tips. Before you begin drink thee and relax your mindsuite
+This a collection of my portfolio tools and helfup tips. Before you begin drink thee and relax your mindsuite.
 
+## Help
+[Adding tools to the PTF](https://github.com/Zawadidone/WebHacking/blob/master/AddPTF.md)
 
 ## The Web Application Hacker's Handbook
 Web Application Hacker's Handbook Task checklist as a Github-Flavored Markdown file
@@ -9,7 +11,7 @@ Web Application Hacker's Handbook Task checklist as a Github-Flavored Markdown f
 
 ### Task Checklist
 
-#### Recon and analysis - [Information Gathering](https://github.com/Zawadidone/WebHacking/blob/master/InformationGathering.md)
+#### [Recon and analysis](https://github.com/Zawadidone/WebHacking/blob/master/Information%20gathering.md)
 
 - [ ] Map visible content
 - [ ] Discover hidden & default content
@@ -18,8 +20,7 @@ Web Application Hacker's Handbook Task checklist as a Github-Flavored Markdown f
 - [ ] Identify the technologies used
 - [ ] Map the attack surface
 
-#### Test handling of access [](https://github.com/Zawadidone/WebHacking/blob/master/InformationGathering.md)
-https://github.com/Zawadidone/WebHacking/blob/master/HandlingOfInput
+####  [Test handling of access](https://github.com/Zawadidone/WebHacking/blob/master/Test%20handling%20of%20access.md)
 - [ ] Authentication
 - [ ] Test password quality rules
 - [ ] Test for username enumeration
@@ -46,7 +47,7 @@ https://github.com/Zawadidone/WebHacking/blob/master/HandlingOfInput
 - [ ] Test effectiveness of controls, using multiple accounts if possible
 - [ ] Test for insecure access control methods (request parameters, Referer header, etc)
 
-##### Test handling of input
+##### [Test handling of input](https://github.com/Zawadidone/WebHacking/blob/master/Test%20handling%20of%20input.md)
 
 - [ ] Fuzz all request parameters
 - [ ] Test for SQL injection
