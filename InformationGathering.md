@@ -13,7 +13,7 @@ sublist3r -d <domain>
 ###### 2\. Striker - Offensive information and vulnerability scanner
 Scanning for services running on ports and other vhosts
 ```
-cd Striker && python striker.py
+cd Striker && python striker.py && cd ~
 ```
 
 
@@ -30,7 +30,7 @@ Go to [Shodan](https://www.shodan.io/) -> Insert company name or domain -> Searc
 ###### 1\. Cloudfail - Utilize misconfigured DNS and old database records to find hidden IP's behind the CloudFlare network.
 To run a scan against a target:
 ```
-cd CloudFail && python3 cloudfail.py --target <domain>
+cd CloudFail && python3 cloudfail.py --target <domain> && cd ~
 ```
 
 
