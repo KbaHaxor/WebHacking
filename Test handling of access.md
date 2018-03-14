@@ -1,1 +1,25 @@
-d
+- [ ] Authentication
+- [ ] Test password quality rules
+- [ ] Test for username enumeration
+- [ ] Test resilience to password guessing
+- [ ] Test any account recovery function
+- [ ] Test any "remember me" function
+- [ ] Test any impersonation function
+- [ ] Test username uniqueness
+- [ ] Check for unsafe distribution of credentials
+- [ ] Test for fail-open conditions
+- [ ] Test any multi-stage mechanisms
+- [ ] Session handling
+- [ ] Test tokens for meaning
+- [ ] Test tokens for predictability
+- [ ] Check for insecure transmission of tokens
+- [ ] Check for disclosure of tokens in logs
+- [ ] Check mapping of tokens to sessions
+- [ ] Check session termination
+- [ ] Check for session fixation
+- [ ] Check for cross-site request forgery
+- [ ] Check cookie scope
+- [ ] Access controls
+- [ ] Understand the access control requirements
+- [ ] Test effectiveness of controls, using multiple accounts if possible
+- [ ] Test for insecure access control methods (request parameters, Referer header, etc)
