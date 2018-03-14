@@ -18,15 +18,15 @@ Web Application Hacker's Handbook Task checklist as a Github-Flavored Markdown f
 - [ ] Harvesting public information
 
 ####  [Session management](https://github.com/Zawadidone/WebHacking/blob/master/Assesment/Session%20management.md)
-- [] Session fixation
-- [] Weak session token quality
-- [] Weak session token management
-- [] Weak logout
-- [] Cross-site request forgery
-- [] Weak CORS
-- [] Session token protection
-- [] No session timeout
-- [] Session encryption (SSL/TLS)
+- [ ] Session fixation
+- [ ] Weak session token quality
+- [ ] Weak session token management
+- [ ] Weak logout
+- [ ] Cross-site request forgery
+- [ ] Weak CORS
+- [ ] Session token protection
+- [ ] No session timeout
+- [ ] Session encryption (SSL/TLS)
 
 ##### [Authentication](https://github.com/Zawadidone/WebHacking/blob/master/Assesment/Authentication.md)
 
