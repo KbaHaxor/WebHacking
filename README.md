@@ -3,39 +3,13 @@
 This a collection of my portfolio tools and helfup tips. Before you begin drink thee and relax your mindsuite
 
 
-XXS
-
-SQLI
-
-SSRF
-
-CRLF
-
-CSV
-
-LFI
-
-XXE
-
-RCE
-
-Open Redirect
-
-Template injection
-
-# The Web Application Hacker's Handbook
+## The Web Application Hacker's Handbook
 Web Application Hacker's Handbook Task checklist as a Github-Flavored Markdown file
-## Contents
-- [Recon and analysis](#recon-and-analysis)
-- [Test handling of access](#test-handling-of-access)
-- [Test handling of input](#test-handling-of-input)
-- [Test application logic](#test-application-logic)
-- [Assess application hosting](#assess-application-hosting)
-- [Miscellaneous tests](#miscellaneous-tests)
 
-## Task Checklist
 
-### Recon and analysis
+### Task Checklist
+
+#### Recon and analysis - [Information Gathering](https://github.com/Zawadidone/WebHacking/blob/master/InformationGathering.md)
 
 - [ ] Map visible content
 - [ ] Discover hidden & default content
@@ -44,7 +18,8 @@ Web Application Hacker's Handbook Task checklist as a Github-Flavored Markdown f
 - [ ] Identify the technologies used
 - [ ] Map the attack surface
 
-### Test handling of access
+#### Test handling of access [](https://github.com/Zawadidone/WebHacking/blob/master/InformationGathering.md)
+https://github.com/Zawadidone/WebHacking/blob/master/HandlingOfInput
 - [ ] Authentication
 - [ ] Test password quality rules
 - [ ] Test for username enumeration
@@ -71,7 +46,7 @@ Web Application Hacker's Handbook Task checklist as a Github-Flavored Markdown f
 - [ ] Test effectiveness of controls, using multiple accounts if possible
 - [ ] Test for insecure access control methods (request parameters, Referer header, etc)
 
-### Test handling of input
+##### Test handling of input
 
 - [ ] Fuzz all request parameters
 - [ ] Test for SQL injection
@@ -90,7 +65,7 @@ Web Application Hacker's Handbook Task checklist as a Github-Flavored Markdown f
 - [ ] Test for LDAP injection
 - [ ] Test for XPath injection
 
-### Test application logic
+#### Test application logic
 
 - [ ] Identify the logic attack surface
 - [ ] Test transmission of data via the client
@@ -101,7 +76,7 @@ Web Application Hacker's Handbook Task checklist as a Github-Flavored Markdown f
 - [ ] Test trust boundaries
 - [ ] Test transaction logic
 
-### Assess application hosting
+#### Assess application hosting
 
 - [ ] Test segregation in shared infrastructures
 - [ ] Test segregation between ASP-hosted applications
@@ -113,7 +88,7 @@ Web Application Hacker's Handbook Task checklist as a Github-Flavored Markdown f
 - [ ] Virtual hosting mis-configuration
 - [ ] Bugs in web server software
 
-### Miscellaneous tests
+#### Miscellaneous tests
 
 - [ ] Check for DOM-based attacks
 - [ ] Check for frame injection
@@ -125,5 +100,5 @@ Web Application Hacker's Handbook Task checklist as a Github-Flavored Markdown f
 - [ ] Follow up any information leakage
 - [ ] Check for weak SSL ciphers
 
-## References
+### References
 *  http://mdsec.net/wahh/tasks.html
