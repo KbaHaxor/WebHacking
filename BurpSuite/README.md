@@ -22,7 +22,7 @@ Target -> Site map -> Right-click on target -> Actively scan host(remove items w
 ```
 
 
-###### 2\. x
+###### 4\. Discover content
 ```
-x -> x -> 
+Target -> Site map -> Right-click on target -> Engagement tools - Discover content
 ```
