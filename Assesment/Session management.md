@@ -1,3 +1,5 @@
+# Session management
+
 - [ ] Session fixation
 - [ ] Weak session token quality
 - [ ] Weak session token management
