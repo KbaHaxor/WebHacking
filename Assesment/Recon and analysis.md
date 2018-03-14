@@ -38,6 +38,13 @@ command
 
 ### Target specifiec 
 
+
+##### 1\. Burpsuite - Proxy tool
+Spider, scan, discover content and ....
+```
+[Burpsuite](https://github.com/Zawadidone/WebHacking/blob/master/BurpSuite/README.md)
+```
+
 ##### 2\. Nmap Vulners - NSE script based on Vulners.com API 
 Scanning for services running on ports 
 ```
@@ -45,7 +52,7 @@ nmap -p-  -sV  --script vulners <domain>
 ```
 
 
-##### 2\. Nikto - Web server scanner
+##### 3\. Nikto - Web server scanner
 Scan for configurations ...
 ```
 nikto -h <domain> -C all
