@@ -18,7 +18,7 @@ Target -> Site map -> Right-click on target -> Spider this host
 
 ###### 3\. Actively scan host
 ```
-Target -> Site map -> Right-click on target -> Actively scan host(remove items with the following extensions(js,gif,jpg,png,css,txt))
+Target -> Site map -> Right-click on target -> Actively scan host(Remove duplicate items, Remove items already scanned, Remove items with the following extensions(js,gif,jpg,png,css,txt))
 ```
 
 
