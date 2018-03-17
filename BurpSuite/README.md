@@ -16,13 +16,13 @@ Target -> Site map -> Right-click on target -> Spider this host
 ```
 
 
-###### 3\. Actively scan host
-```
-Target -> Site map -> Right-click on target -> Actively scan host(Remove duplicate items, Remove items already scanned, Remove items with the following extensions(js,gif,jpg,png,css,txt))
-```
-
-
-###### 4\. Discover content
+###### 3\. Discover content
 ```
 Target -> Site map -> Right-click on target -> Engagement tools - Discover content
+```
+
+
+###### 4\. Actively scan host
+```
+Target -> Site map -> Right-click on target -> Actively scan host(Remove duplicate items, Remove items already scanned, Remove items with the following extensions(js,gif,jpg,png,css,txt))
 ```
