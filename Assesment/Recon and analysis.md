@@ -18,22 +18,10 @@ Scanning for services running on ports and other vhosts
 striker
 ```
 
-
-
 ##### 3\. Shodan - The search engine for Internet of Shit
 Search for ip addresses associate with the company
 
 Go to [Shodan](https://www.shodan.io/) -> Insert company name or domain -> Search -> Results :)
-
-
-##### Others
-
-
-##### 1\. name - description
-command description
-```
-command
-```
 
 
 ### Target specifiec 
@@ -56,5 +44,8 @@ Scan for configurations ...
 ```
 nikto -h <domain> -C all
 ```
+
+
+##### Others
 
 ![Recon](https://github.com/Zawadidone/WebHacking/blob/master/images/Recon.jpg?raw=true)
