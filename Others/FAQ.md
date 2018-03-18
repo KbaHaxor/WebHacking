@@ -14,3 +14,7 @@ Use the [PTF Framework](https://github.com/trustedsec/ptf). If you already know 
 ### Stop asking people how can I be a hacker just do it!]
 (I want be a hacker)[Adding tools to the PTF]()
 [Hacke](https://www.linkedin.com/pulse/career-how-become-web-pentester-gergely-r%C3%A9vay/)
+
+### Resources 
+* https://www.hacksplaining.com/
+* https://github.com/ethicalhack3r/DVWA
