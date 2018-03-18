@@ -15,7 +15,7 @@ sublist3r -d <domain>
 ##### 2\. Striker - Offensive information and vulnerability scanner
 Scanning for services running on ports and other vhosts
 ```
-striker
+cd Striker & python striker.py
 ```
 
 ##### 3\. Shodan - The search engine for Internet of Shit
