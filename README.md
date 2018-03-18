@@ -1,12 +1,7 @@
 # WebHacking
 
-This a collection of my portfolio tools and helfup tips. Before you begin drink thee and relax your mindsuite.
-
-## Help
-[Adding tools to the PTF](https://github.com/Zawadidone/WebHacking/blob/master/Assesment/Add%20tools.md)
-
-## The Web Application Hacker's Handbook
-Web Application Hacker's Handbook Task checklist as a Github-Flavored Markdown file
+This a collection of my portfolio tools and helfup tips. Before you begin drink thee and relax your mindsuite. (FAQ
+)[https://github.com/Zawadidone/WebHacking/blob/master/Others/FAQ.md]
 
 
 ### Task Checklist
