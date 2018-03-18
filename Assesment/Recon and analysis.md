@@ -35,7 +35,7 @@ Spider, scan, discover content and ....
 ##### 2\. Nmap Vulners - NSE script based on Vulners.com API 
 Scanning for services running on ports 
 ```
-nmap -p-  -sV  --script vulners <domain>
+nmap  -sV  --script vulners <domain>
 ```
 
 
