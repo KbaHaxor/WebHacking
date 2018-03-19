@@ -8,7 +8,7 @@ This a collection of my portfolio tools and helfup tips. Before you begin drink 
 #### [Recon and analysis](https://github.com/Zawadidone/WebHacking/blob/master/Assesment/Recon%20and%20analysis.md)
 
 - [ ] Manual application discovery
-- [ ] Automated discovery
+- [ ] Automated discovery(Subdomaintakeover)
 - [ ] Harvesting public information
 
 ####  [Session management](https://github.com/Zawadidone/WebHacking/blob/master/Assesment/Session%20management.md)
