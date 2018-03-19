@@ -25,6 +25,9 @@ Scanning for services running on ports and other vhosts
 cd Striker & python striker.py
 ```
 
+### [Subdomaintakover](https://github.com/Zawadidone/WebHacking/blob/master/Resources/Subdomaintakeover.md)
+
+
 ### Harvesting public information
 
 ##### 1\. Shodan - The search engine for Internet of Shit
