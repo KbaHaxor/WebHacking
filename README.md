@@ -22,7 +22,7 @@ This a collection of my portfolio tools and helfup tips. Before you begin drink 
 - [ ] No session timeout
 - [ ] Session encryption (SSL/TLS)
 
-##### [Authentication](https://github.com/Zawadidone/WebHacking/blob/master/Assesment/Authentication.md)
+#### [Authentication](https://github.com/Zawadidone/WebHacking/blob/master/Assesment/Authentication.md)
 
 - [ ] Password strength enforcement
 - [ ] Authentication bypass
