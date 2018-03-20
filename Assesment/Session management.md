@@ -14,8 +14,7 @@
 ##### 1\. [Analyze cookies with the Burpsuite Sequencer](https://github.com/Zawadidone/WebHacking/blob/master/BurpSuite/Tools/Sequencer.md)
 
 
-##### 2\. [SSL Server test](
-https://www.ssllabs.com/ssltest/)
+##### 2\. [SSL Server test](https://www.ssllabs.com/ssltest/)
 
 
 ##### 3\. HSTS - Strict Transport Security
