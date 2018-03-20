@@ -1,6 +1,6 @@
 # WebHacking
 
-This a collection of my portfolio tools and helfup tips. Before you begin drink thee and relax your mindsuite. [FAQ](https://github.com/Zawadidone/WebHacking/blob/master/Others/FAQ.md)
+This a collection of my portfolio tools and helfup tips. Before you begin drink thee and relax your mindsuite. 
 
 
 ### Task Checklist
@@ -65,6 +65,13 @@ This a collection of my portfolio tools and helfup tips. Before you begin drink 
 - [ ] Comments
 - [ ] Path disclosure
 - [ ] Directory listing
+
+
+### Help
+[FAQ](https://github.com/Zawadidone/WebHacking/blob/master/Others/FAQ.md)
+[PayloadsAllTheThings](https://github.com/Zawadidone/WebHacking/tree/master/Resources/PayloadsAllTheThings)
+[Cheatsheet](https://github.com/Zawadidone/WebHacking/tree/master/Resources/Cheatsheet)
+
 
 ### References
 *  http://mdsec.net/wahh/tasks.html
