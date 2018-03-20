@@ -36,6 +36,7 @@ cd Striker && python striker.py
 
 ### Harvesting public information
 
+
 ##### 1\. Shodan - The search engine for Internet of Shit
 Search for ip addresses associate with the company
 
