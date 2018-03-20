@@ -22,7 +22,7 @@ nmap --script dns-brute <domain>
 ##### 3\. Striker - Offensive information and vulnerability scanner
 Scanning for services running on ports and other vhosts
 ```
-cd Striker & python striker.py
+cd Striker && python striker.py
 ```
 
 ### [Subdomaintakover](https://github.com/Zawadidone/WebHacking/blob/master/Resources/Subdomaintakeover.md)
