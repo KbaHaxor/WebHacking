@@ -6,7 +6,7 @@
 ### Automated discovery
 
 
-##### 1\. Sublist3r - Scanning for subdomains
+##### 1\. Sublist3r - Scanning for subdomains or [Sublist3r on multiply domains](https://github.com/Zawadidone/WebHacking/tree/master/Resources/Cheatsheet)
 ```
 sublist3r -d <domain>
 ```
