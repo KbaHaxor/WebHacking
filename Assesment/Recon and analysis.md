@@ -25,7 +25,13 @@ Scanning for services running on ports and other vhosts
 cd Striker && python striker.py
 ```
 
+
 ### [Subdomaintakover](https://github.com/Zawadidone/WebHacking/blob/master/Resources/Subdomaintakeover.md)
+
+
+##### 1\.  - 
+```
+```
 
 
 ### Harvesting public information
@@ -56,6 +62,13 @@ nmap  -sV  --script vulners <domain>
 Scan for configurations ...
 ```
 nikto -h <domain> -C all
+```
+
+
+##### 4\. Dirb - Domain Brute-forcing Tool
+Bruteforce directories
+```
+dirb <url> -f
 ```
 
 
