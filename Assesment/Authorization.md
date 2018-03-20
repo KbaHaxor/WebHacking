@@ -5,3 +5,6 @@
 - [ ] Variable manipulation
 - [ ] Direct access to resources
 - [ ] IDOR
+
+### IDOR 
+Create 2 accounts and compare the requests
