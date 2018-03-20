@@ -6,5 +6,11 @@
 - [ ] Direct access to resources
 - [ ] IDOR
 
-### IDOR 
-Create 2 accounts and compare the requests
+
+### IDOR
+Burpsuite Comparer - Compare request with 2 accounts
+
+Create 2 accounts, change profile settings and compare every request
+```
+Proxy -> Intercept -> Click on(Intercept is off) -> Do the action -> Right-click on Send to comparer
+```
