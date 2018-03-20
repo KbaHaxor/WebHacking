@@ -10,5 +10,5 @@
 - [ ] No session timeout
 - [ ] Session encryption (SSL/TLS)
 ```
-Strict-Transport-Security: max-age=63072000; includeSubDomains; preload 
+ curl -s -D- <domain> | grep -i Strict     
 ```
