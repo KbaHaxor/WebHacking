@@ -25,8 +25,7 @@ Check CSRF in Burpsuite sitemap
 
 ###  Session encryption (SSL/TLS)
 
-##### 1\. [SSL Server test](
-https://www.ssllabs.com/ssltest/)
+##### 1\. [SSL Server test](https://www.ssllabs.com/ssltest/)
 
 
 ##### 2\. HSTS - Strict Transport Security
