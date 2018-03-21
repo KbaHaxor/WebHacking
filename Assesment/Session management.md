@@ -31,5 +31,5 @@ Check CSRF in Burpsuite sitemap
 ##### 2\. HSTS - Strict Transport Security
 Check HSTS header
 ```
-curl -s -D- <domain> | grep -i Strict  
+curl -s -D- <url> | grep -i Strict  
 ```
