@@ -72,5 +72,5 @@
 
 ### References
 * http://mdsec.net/wahh/tasks.html
-* [Cheatsheet](https://github.com/Zawadidone/WebHacking/tree/master/Resources/Cheatsheet)
-* [PayloadsAllTheThings](https://github.com/Zawadidone/WebHacking/tree/master/Resources/PayloadsAllTheThings)
+* [Cheatsheet](https://github.com/EdOverflow/bugbounty-cheatsheet)
+* [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings)
