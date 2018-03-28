@@ -74,3 +74,4 @@
 * http://mdsec.net/wahh/tasks.html
 * [Cheatsheet](https://github.com/EdOverflow/bugbounty-cheatsheet)
 * [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings)
+* [Bugbountyguide](https://bugbountyguide.com/)
